@@ -13,7 +13,7 @@ createServer({
       transactions: [
         {
           id: 1,
-          title: 'Desenvolvimento do Front-end do DTMoney',
+          tittle: 'Desenvolvimento do Front-end do DTMoney',
           type: 'deposit',
           category: 'Dev',
           amount: 6000,
@@ -21,7 +21,7 @@ createServer({
         },
         {
           id: 2,
-          title: 'Almoço de final de semana',
+          tittle: 'Almoço de final de semana',
           type: 'withdraw',
           category: 'Alimentação',
           amount: 1000,
